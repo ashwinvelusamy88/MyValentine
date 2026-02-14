@@ -1,2 +1,0 @@
-# MyValentine
-Valentine Page
